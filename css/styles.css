@@ -28,10 +28,6 @@ a {
 .header-container {
     display: flex;
     width: 1158px;
-    padding-left: 15px;
-    padding-right: 15px;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .header {
@@ -49,7 +45,7 @@ a {
     text-transform: uppercase;
     color: #4D5AE5;
     display: block;
-    padding: 20px 24px;
+    padding: 24px 0;
     margin-right: 76px;
 }
 
@@ -289,7 +285,7 @@ a {
 }
 
 .footer-logo {
-    display: block;
+    display: inline-block;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
     line-height: 1.17;
